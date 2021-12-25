@@ -1,16 +1,16 @@
 ### Hi there 👋
+I am Youssef(Joe) from Cairo, Egypt. An engineering student trying to score an internship. Wish me luck!!  
 
-<!--
-**YoussefLasheen/YoussefLasheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a portfolio website made flutter ==> [portfolio.lasheen.dev](http://portfolio.lasheen.dev)
 
-Here are some ideas to get you started:
+#### Quick info:
+- 🏀 I play basketball as a hobby.
+- 🔭 Working on [doze](https://github.com/YoussefLasheen/doze) with flutter. soon to be published on google play.
+- 🌱 Learning Rust, and Chinese. 你好
+- 🎮 I play Valorant.
+- 📫 Contact me via my email youssef@lasheen.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Stats:  
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseflasheen&show_icons=true&theme=github_dark)
+
