@@ -1,14 +1,16 @@
 ### Hi there 👋
-I am Youssef(Joe) from Cairo, Egypt. An engineering student trying to score an internship. Wish me luck!!  
+I am Youssef(Joe) from Cairo, Egypt. A Computer Engineering Student trying to score an internship. Wish me good luck!!  
+Currently freelancing, but activly looking for a flutter developer position.
 
-I have a portfolio website made flutter ==> [portfolio.lasheen.dev](http://portfolio.lasheen.dev)
+I have a portfolio website made with flutter [portfolio.lasheen.dev](http://portfolio.lasheen.dev)
 
 #### Quick info:
-- 🏀 I play basketball as a hobby.
-- 🔭 Working on [doze](https://github.com/YoussefLasheen/doze) with flutter. soon to be published on google play.
+- 🔭 Working on [doze](https://github.com/YoussefLasheen/doze) with flutter. Early preview on  [Google Play](https://play.google.com/store/apps/details?id=dev.lasheen.doze).
 - 🌱 Learning Rust, and Chinese. 你好
-- 🎮 I play Valorant.
-- 📫 Contact me via my email youssef@lasheen.dev
+- 🎮 I play Valorant and Halo infinite.
+- 🏀 Basketball player.
+- 📫 My email youssef@lasheen.dev
+- 🌐You can usually find me on social media as yousseflasheen
 
 
 #### Stats:  
