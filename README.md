@@ -2,7 +2,7 @@
 I am Youssef. A Computer Engineering Student trying to score an internship. Wish me good luck!!  
 Currently freelancing, but activly looking for a flutter developer position.
 
-I have a portfolio website made with flutter [portfolio.lasheen.dev](http://portfolio.lasheen.dev)
+I have a portfolio website made with flutter [lasheen.dev](http://lasheen.dev)
 
 #### Quick info:
 - 🔭 Working on [CrowdSolve Mobile app](https://github.com/CrowdSolve/Mobile) with flutter. Early preview on  [Google Play](https://play.google.com/store/apps/details?id=dev.lasheen.crowdsolve).
